@@ -1,10 +1,13 @@
 ---
-name: Vadim kushnirchuk # Ваше имя
+name: Vadim Kushnirchuk # Ваше имя
 job: QA Engineer
 level: junior
-email: vadim@hexlet.io
-description: Начал учиться с нуля)
-skills:
+email: vadim.pfff@yahoo.com
+description: В этой сфере начал учиться с нуля
+  Это текст-описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя
+
+  Текст может быть написан в несколько абзацев
+skills: # список навыков в виде списка, напишите что-то свое
   - Word, Excel
   - Армянский язык С1
   - Немецкий язык А2
