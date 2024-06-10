@@ -6,8 +6,7 @@
   prerequisites: |
     Пользователь должен быть в системе
   test-data: |
-    Тестовые данные???
-    ???
+    Empty
   steps:
     - Кликаем на поле "Category"
     - Из выпавшего списка выбираем поле "Fragrances"
@@ -22,7 +21,7 @@
   prerequisites:
     Пользователь должен быть в системе
   test-data: |
-    ???
+    Empty
   steps:
     - Выбираем товар "Calvin Klein CK One"
     - Кликаем на поле "Calvin Klein CK One"
