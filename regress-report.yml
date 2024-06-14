@@ -1,10 +1,6 @@
 ---
 test-cases:
 - summary: |
-    Проверка выбора категории товара
-  status: pass
-
-- summary: |
     Проверка состояния корзины после оформления заказа
   status: fail
 
@@ -13,7 +9,7 @@ test-cases:
   status: fail
 
 bugreports:
-  - summary: |
+- summary: |
       Не работает оформление заказа товара из корзины
     environment: |
       Chrome: Версия 125.0.6422.76 (Официальная сборка), (64 бит)
