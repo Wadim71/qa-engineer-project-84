@@ -4,7 +4,7 @@
   requirement: |
     При выборе той или иной категории товара пользователь должен получить соответствующую выбранной категории группу товаров
   prerequisites: |
-    Пользователь должен быть на главной странице
+    Пользователь должен быть на главной странице https://github.com/Wadim71/qa-engineer-project-84/blob/f23df9dbea7cfc9de8df9d63ff18ffc06e7e32ee/test-cases.yml#L7
   test-data: |
     Empty
   steps:
@@ -19,7 +19,7 @@
   requirement: |
     После оформления заказа корзина должна быть пустой
   prerequisites:
-    Пользователь должен быть на странице каталога товаров
+    Пользователь должен быть на странице каталога товаров https://github.com/Wadim71/qa-engineer-project-84/blob/f23df9dbea7cfc9de8df9d63ff18ffc06e7e32ee/test-cases.yml#L22
   test-data: |
     Empty
   steps:
@@ -37,7 +37,7 @@
   requirement: |
     При выборе категорий товаров пользователь должен получить список всех категорий товаров, представленных на сайте магазина
   prerequisites: |
-    Пользователь должен быть в системе
+    Пользователь должен быть на главной странице 
   test-data: |
     Empty
   steps:
