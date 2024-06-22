@@ -32,19 +32,19 @@
   status: pass
 
 - summary: |
-    Проверка на функционирование сайта в последней версии браузера Google Chrome
+    Проверка на работу сайта в последней версии браузера Google Chrome
   status: pass
   
 - summary: |
-    Проверка на функционирование сайта в последней версии браузера Mozilla Firefox
+    Проверка на работу сайта в последней версии браузера Mozilla Firefox
   status: pass
 
 - summary: |
-    Проверка на функционирование сайта в смартфоне iPhone 14 Pro Max
+    Проверка на работу сайта в смартфоне iPhone 14 Pro Max
   status: fail
 
 - summary: |
-    Проверка на функционирование сайта в смартфоне Samsung Galaxy S20 Ultra
+    Проверка на работу сайта в смартфоне Samsung Galaxy S20 Ultra
   status: fail
   
 - summary: |
