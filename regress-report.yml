@@ -37,7 +37,7 @@ test-cases:
     status: pass
 
   - summary: |
-      Успешная оплата заказа
+      Успешное оформление заказов
     status: fail
 
   - summary: |
