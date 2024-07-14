@@ -36,7 +36,7 @@
   status: pass
 
 - summary: |
-    Успешное оформление заказов
+    Успешная оплата заказа
   status: fail
 
 - summary: |
